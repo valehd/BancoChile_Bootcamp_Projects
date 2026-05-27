@@ -8,28 +8,17 @@
 header {
   color: white;
   background-color: black;
-  position: relative;
   padding: 20px;
 }
 
-.login {
-  position: absolute;
-  left: 20px;
-  top: 20px;
+.loginIconos {
   display: flex;
-  gap: 15px;
+  justify-content: space-between;
 }
 
 .login a {
   text-decoration: none;
   color: white;
-}
-.iconos {
-  position: absolute;
-  right: 20px;
-  top: 20px;
-  display: flex;
-  gap: 10px;
 }
 
 .iconos img {
