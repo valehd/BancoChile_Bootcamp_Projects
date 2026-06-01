@@ -1,7 +1,6 @@
-# Examen 2 
+# Batalla-musical
 
-Proyecto desarrollado como parte de la evaluación de desarrollo web, aplicando HTML, CSS y JavaScript para la construcción de una interfaz interactiva y responsiva.
-
+Aplicación web interactiva desarrollada con HTML, CSS y JavaScript que permite filtrar géneros musicales y votar por bandas participantes en una batalla musical.
 ## 🚀 Tecnologías utilizadas
 
 - HTML5
@@ -25,7 +24,7 @@ Entre las características implementadas se encuentran:
 ## 📂 Estructura del proyecto
 
 ```text
-📦 examen2_vhernandez
+📦 music-battle
  ┃ ┣ 📂 css
  ┃ ┣ 📂 img
  ┃ ┗ 📂 js
@@ -34,7 +33,7 @@ Entre las características implementadas se encuentran:
 
 ⚙️ Instalación y uso
 Clonar el repositorio:
-git clone https://github.com/valehd/examen2_vhernandez.git
+git clone https://github.com/valehd/music-battle.git
 Ingresar a la carpeta del proyecto:
-cd examen2_vhernandez
+cd music-battle
 Abrir el archivo index.html en el navegador.
