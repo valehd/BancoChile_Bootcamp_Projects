@@ -1,4 +1,4 @@
--- Insercion 5 estudiantes en tabla estudiantes
+-- Insercion 6 estudiantes en tabla estudiantes
 
 INSERT INTO  estudiantes (id_estudiante, nombre_estudiante, edad)
 VALUES (1,'Matias Jara', 22);
@@ -15,6 +15,8 @@ VALUES (4,'Alonso Diaz', 19);
 INSERT INTO  estudiantes (id_estudiante, nombre_estudiante, edad)
 VALUES (5,'Carlos Rojas', 22);
 
+INSERT INTO  estudiantes (id_estudiante, nombre_estudiante, edad)
+VALUES (6,'Patricio Olivas', 20);
 -- Revision insercion correcta
 SELECT * FROM estudiantes;
 
