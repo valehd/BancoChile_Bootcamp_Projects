@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+}
+
+.top-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: pink;
+}
+
+h1{
+    color: white
+}
+span{
+    color: black;
+}
+
+.login ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.menu{
+    padding: 15px 20px;
+    background-color: lightgray;
+}
+
+.menu ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    justify-content: center;
+}
+
+main{
+    display: flex;
+     flex-direction: column;
+    gap: 30px;
+    
+}
+
+
+
+.titulo{
+ padding: 10px;
+       display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    font-size: 30px;
+}
+.titulo img{
+    width: 80%;
+}
+
+.segundamitad{
+    width: 80%;
+     margin: 0 auto;
+}
+.resultados{
+     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+   
+}
+
+.productos{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+    gap: 30px;
+    margin: 20px;
+    width: 80%;
+}
+
+
+
+.productos img{
+    width: 85%;
+    height: auto;
+    margin: 5px;
+    padding: 10px;
+}
+
+.fotos{
+    background-color: lightgray;
+ 
+    padding-bottom: 10px;
+    
+
+}
+
+
+.comprar {
+    background-color: pink;
+    color: white;
+    padding: 5px;
+
+
+}
+
+h3{
+    text-decoration: underline ;
+}
+
+.fotos p {
+    color: rgb(235, 106, 128);
+    font-weight: 500;
+}
+
+footer{
+    background-color: pink;
+}
